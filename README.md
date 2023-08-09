@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandraNwigwe
 - 👀 I’m interested in music & media
-- 🌱 I’m currently learning how to program
+- 🌱 I’m currently learning how AI will affect the way we consume music and TV.
 - 💞️ I’m looking to collaborate on "music-in-tech ideas"
 - 📫 How to reach me: email cdatalent@gmail.com
 
