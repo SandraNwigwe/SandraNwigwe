@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandraNwigwe
 - 👀 I’m interested in music & media
 - 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on music in tech ideas
+- 💞️ I’m looking to collaborate on "music-in-tech ideas"
 - 📫 How to reach me: email cdatalent@gmail.com
 
 <!---
